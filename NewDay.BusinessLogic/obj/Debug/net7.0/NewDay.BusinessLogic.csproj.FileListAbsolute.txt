@@ -1,0 +1,12 @@
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\bin\Debug\net7.0\NewDay.BusinessLogic.deps.json
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\bin\Debug\net7.0\NewDay.BusinessLogic.dll
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\bin\Debug\net7.0\NewDay.BusinessLogic.pdb
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\obj\Debug\net7.0\NewDay.BusinessLogic.csproj.AssemblyReference.cache
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\obj\Debug\net7.0\NewDay.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\obj\Debug\net7.0\NewDay.BusinessLogic.AssemblyInfoInputs.cache
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\obj\Debug\net7.0\NewDay.BusinessLogic.AssemblyInfo.cs
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\obj\Debug\net7.0\NewDay.BusinessLogic.csproj.CoreCompileInputs.cache
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\obj\Debug\net7.0\NewDay.BusinessLogic.dll
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\obj\Debug\net7.0\refint\NewDay.BusinessLogic.dll
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\obj\Debug\net7.0\NewDay.BusinessLogic.pdb
+T:\Repos\mdwl-backend-core\NewDay\NewDay.BusinessLogic\obj\Debug\net7.0\ref\NewDay.BusinessLogic.dll

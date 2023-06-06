@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NewDay.Console/1.0.0": {
+        "dependencies": {
+          "NewDay.BusinessLogic": "1.0.0"
+        },
+        "runtime": {
+          "NewDay.Console.dll": {}
+        }
+      },
+      "NewDay.BusinessLogic/1.0.0": {
+        "runtime": {
+          "NewDay.BusinessLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewDay.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewDay.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
